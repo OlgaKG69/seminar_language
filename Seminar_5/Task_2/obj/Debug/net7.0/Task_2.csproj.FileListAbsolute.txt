@@ -1,0 +1,15 @@
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\bin\Debug\net7.0\Task_2.exe
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\bin\Debug\net7.0\Task_2.deps.json
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\bin\Debug\net7.0\Task_2.dll
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\bin\Debug\net7.0\Task_2.pdb
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.dll
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.pdb
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+E:\Обучение\LP\ДЗ\seminar_language\Seminar_5\Task_2\obj\Debug\net7.0\ref\Task_2.dll
